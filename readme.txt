@@ -4,4 +4,4 @@ git has a mutable index call stage
 git tracks changes of files
 creating a new branch is quick
 
-created a new branch named dev
+create a new branch is quick and simple
